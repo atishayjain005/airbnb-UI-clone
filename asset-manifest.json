@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/airbnb-UI-clone/static/css/main.7918899c.chunk.css",
+    "main.js": "/airbnb-UI-clone/static/js/main.6a7dc3b5.chunk.js",
+    "main.js.map": "/airbnb-UI-clone/static/js/main.6a7dc3b5.chunk.js.map",
+    "runtime-main.js": "/airbnb-UI-clone/static/js/runtime-main.d82c9b19.js",
+    "runtime-main.js.map": "/airbnb-UI-clone/static/js/runtime-main.d82c9b19.js.map",
+    "static/js/2.004cbe0f.chunk.js": "/airbnb-UI-clone/static/js/2.004cbe0f.chunk.js",
+    "static/js/2.004cbe0f.chunk.js.map": "/airbnb-UI-clone/static/js/2.004cbe0f.chunk.js.map",
+    "index.html": "/airbnb-UI-clone/index.html",
+    "static/css/main.7918899c.chunk.css.map": "/airbnb-UI-clone/static/css/main.7918899c.chunk.css.map",
+    "static/js/2.004cbe0f.chunk.js.LICENSE.txt": "/airbnb-UI-clone/static/js/2.004cbe0f.chunk.js.LICENSE.txt",
+    "static/media/liveanywhere.scss": "/airbnb-UI-clone/static/media/5.7c5fe161.png",
+    "static/media/ahmedabad.60075ed8.png": "/airbnb-UI-clone/static/media/ahmedabad.60075ed8.png",
+    "static/media/navbar.scss": "/airbnb-UI-clone/static/media/background.6660ca85.jpg",
+    "static/media/bhopal.9283dc8a.png": "/airbnb-UI-clone/static/media/bhopal.9283dc8a.png",
+    "static/media/eight.fba0839b.jpg": "/airbnb-UI-clone/static/media/eight.fba0839b.jpg",
+    "static/media/four.dbca3473.jpg": "/airbnb-UI-clone/static/media/four.dbca3473.jpg",
+    "static/media/igatpuri.95592d62.png": "/airbnb-UI-clone/static/media/igatpuri.95592d62.png",
+    "static/media/indore.86838012.png": "/airbnb-UI-clone/static/media/indore.86838012.png",
+    "static/media/jaipur.11721c76.png": "/airbnb-UI-clone/static/media/jaipur.11721c76.png",
+    "static/media/nashik.4528473d.png": "/airbnb-UI-clone/static/media/nashik.4528473d.png",
+    "static/media/one.52e82bcc.jpg": "/airbnb-UI-clone/static/media/one.52e82bcc.jpg",
+    "static/media/seven.6bc642ec.jpg": "/airbnb-UI-clone/static/media/seven.6bc642ec.jpg",
+    "static/media/six.d1a1dc2b.jpg": "/airbnb-UI-clone/static/media/six.d1a1dc2b.jpg",
+    "static/media/three.ffefbac4.jpg": "/airbnb-UI-clone/static/media/three.ffefbac4.jpg",
+    "static/media/two.a435de4d.jpg": "/airbnb-UI-clone/static/media/two.a435de4d.jpg",
+    "static/media/udaipur.7ae64170.png": "/airbnb-UI-clone/static/media/udaipur.7ae64170.png",
+    "static/media/vadodra.a9c7c5e8.png": "/airbnb-UI-clone/static/media/vadodra.a9c7c5e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d82c9b19.js",
+    "static/js/2.004cbe0f.chunk.js",
+    "static/css/main.7918899c.chunk.css",
+    "static/js/main.6a7dc3b5.chunk.js"
+  ]
+}
