@@ -1,0 +1,99 @@
+.footer {
+    background: #f7f7f7;
+    padding: 0 80px;
+    margin-top: 80px;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+
+    .wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: center;
+        flex-basis: 100%;
+        padding: 60px 0;
+
+        .links {
+            width: 362.25px;
+
+            h5 {
+                text-transform: uppercase;
+            }
+
+            .link {
+                display: flex;
+                flex-direction: column;
+
+                a {
+                    margin-top: 16px;
+                    font-size: 14px;
+                    text-decoration: none;
+                    color: black;
+
+                    &:hover {
+                        text-decoration: underline;
+                        font-weight: 300;
+                    }
+                }
+            }
+        }
+    }
+
+    .endFooter {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 24px 0;
+        font-size: 14px;
+
+        .copyright {
+            a {
+                text-decoration: none;
+                color: black;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+            span {
+                margin: 10px;
+            }
+        }
+
+        .languageAndSocial {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 50px;
+
+            .language{
+                display: flex;
+                flex-direction: row;
+                gap: 25px;
+
+                a{
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                    font-weight: 700;
+                    text-decoration: none;
+                    color: black;
+
+                    span{
+                        margin-right: 10px;
+                        text-decoration: none;
+                    }
+                }
+            }
+
+            .socialMedia{
+                display: flex;
+                flex-direction: row;
+                gap: 25px;
+
+                a{
+                color: black;
+                }
+            }
+        }
+    }
+}
