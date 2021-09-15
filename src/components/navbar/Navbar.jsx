@@ -2,15 +2,7 @@ import "./navbar.scss";
 
 export default function Navbar({ dropdownMenuOpen, setDropdownMenuOpen }, props) {
 
-    const navbarTransition = () => {
-        console.log("hibt");
-            let elem = document.getElementsClassName("mainwrapper")
-            elem.addEventListener("scroll", function(){
-                elem.classList.add("active");
-                console.log("hibt");
-            })
-            
-    }
+    
 
     return (
         <div className="section">
@@ -40,9 +32,9 @@ export default function Navbar({ dropdownMenuOpen, setDropdownMenuOpen }, props)
                 </div>
                 <div className="center">
                     <div className="wrapper">
-                        <a>Places to stay</a>
-                        <a>Experiences</a>
-                        <a>Online Experiences</a>
+                        <a href="#0">Places to stay</a>
+                        <a href="#0">Experiences</a>
+                        <a href="#0">Online Experiences</a>
                     </div>
                     <div className="traveldetails">
                         <div className="travelInfo">
@@ -89,8 +81,8 @@ export default function Navbar({ dropdownMenuOpen, setDropdownMenuOpen }, props)
                     </div>
                 </div>
                 <div className="right">
-                    <a>Become a host</a>
-                    <a>
+                    <a href="#0">Become a host</a>
+                    <a href="#0">
                         <div className="languageRegion">
                             <svg
                                 viewBox="0 0 16 16"
@@ -139,12 +131,12 @@ export default function Navbar({ dropdownMenuOpen, setDropdownMenuOpen }, props)
                             </div>
                         </button>
                         <div className={"dropdownMenu " + (dropdownMenuOpen && "active")}>
-                            <a href=""><b>Sign Up</b></a>
-                            <a href="">Log in</a>
+                            <a href="#0"><b>Sign Up</b></a>
+                            <a href="#0">Log in</a>
                             <hr />
-                            <a href="">Host your name</a>
-                            <a href="">Host an experience</a>
-                            <a href="">Help</a>
+                            <a href="#0">Host your name</a>
+                            <a href="#0">Host an experience</a>
+                            <a href="#0">Help</a>
                         </div>
                     </div>
                 </div>

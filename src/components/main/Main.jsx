@@ -10,16 +10,17 @@ import bhopal from "../../assets/bhopal.png"
 import vadodra from "../../assets/vadodra.png"
 
 export default function Main() {
+  
   return (
     <div>
     <div className="section1">
       <h1>Explore nearby</h1>
       <div className="nearbyDestinations">
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture >
-                <img src={jaipur}></img>
+                <img alt="" src={jaipur}></img>
               </picture>
             </div>
             <div className="details">
@@ -31,10 +32,10 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture>
-                <img src={udaipur}></img>
+                <img alt="" src={udaipur}></img>
               </picture>
             </div>
             <div className="details">
@@ -46,10 +47,10 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture>
-                <img src={nashik}></img>
+                <img alt="" src={nashik}></img>
               </picture>
             </div>
             <div className="details">
@@ -61,10 +62,10 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture>
-                <img src={ahmedabad}></img>
+                <img alt="" src={ahmedabad}></img>
               </picture>
             </div>
             <div className="details">
@@ -76,10 +77,10 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture>
-                <img src={igatpuri}></img>
+                <img alt="" src={igatpuri}></img>
               </picture>
             </div>
             <div className="details">
@@ -91,10 +92,10 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture>
-                <img src={indore}></img>
+                <img alt="" src={indore}></img>
               </picture>
             </div>
             <div className="details">
@@ -106,10 +107,10 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture>
-                <img src={bhopal}></img>
+                <img alt="" src={bhopal}></img>
               </picture>
             </div>
             <div className="details">
@@ -121,10 +122,10 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a>
+          <a href="#0">
             <div className="picture">
               <picture>
-                <img src={vadodra}></img>
+                <img alt="" src={vadodra}></img>
               </picture>
             </div>
             <div className="details">

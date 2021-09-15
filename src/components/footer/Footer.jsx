@@ -2,74 +2,75 @@ import React from 'react'
 import "./footer.scss"
 
 export default function Footer(props) {
+  
   return (
     <div className="footer">
       <div className="wrapper">
         <div className="links">
           <h5>About</h5>
           <div className="link">
-            <a>How Airbnb works</a>
-            <a>Newsroom</a>
-            <a>Airbnb 2021</a>
-            <a>Investors</a>
-            <a>Airbnb Plus</a>
-            <a>Airbnb Luxe</a>
-            <a>Hotel Tonight</a>
-            <a>Airbnb for Work</a>
-            <a>Made possible by Hosts</a>
-            <a>Careers</a>
-            <a>Founder's Letter</a>
+            <a href="#0">How Airbnb works</a>
+            <a href="#0">Newsroom</a>
+            <a href="#0">Airbnb 2021</a>
+            <a href="#0">Investors</a>
+            <a href="#0">Airbnb Plus</a>
+            <a href="#0">Airbnb Luxe</a>
+            <a href="#0">Hotel Tonight</a>
+            <a href="#0">Airbnb for Work</a>
+            <a href="#0">Made possible by Hosts</a>
+            <a href="#0">Careers</a>
+            <a href="#0">Founder's Letter</a>
           </div>
         </div>
         <div className="links">
           <h5>Community</h5>
           <div className="link">
-            <a>Diversity & Blogging</a>
-            <a>Accessibility</a>
-            <a>Airbnb Associates</a>
-            <a>Frontline Stays</a>
-            <a>Guest Referrals</a>
-            <a>Airbnb.org</a>
+            <a href="#0">Diversity & Blogging</a>
+            <a href="#0">Accessibility</a>
+            <a href="#0">Airbnb Associates</a>
+            <a href="#0">Frontline Stays</a>
+            <a href="#0">Guest Referrals</a>
+            <a href="#0">Airbnb.org</a>
           </div>
         </div>
         <div className="links">
           <h5>Host</h5>
           <div className="link">
-            <a>Host your home</a>
-            <a>Host an Online Experience</a>
-            <a>Host an Experience</a>
-            <a>Responsible hosting</a>
-            <a>Resource Centre</a>
-            <a>Community Centre</a>
+            <a href="#0">Host your home</a>
+            <a href="#0">Host an Online Experience</a>
+            <a href="#0">Host an Experience</a>
+            <a href="#0">Responsible hosting</a>
+            <a href="#0">Resource Centre</a>
+            <a href="#0">Community Centre</a>
           </div>
         </div>
         <div className="links">
           <h5>Support</h5>
           <div className="link">
-            <a>Our COVID-19 Response</a>
-            <a>Help Centre</a>
-            <a>Cancellation options</a>
-            <a>Neighbourhood Support</a>
-            <a>Trust & Safely</a>
+            <a href="#0">Our COVID-19 Response</a>
+            <a href="#0">Help Centre</a>
+            <a href="#0">Cancellation options</a>
+            <a href="#0">Neighbourhood Support</a>
+            <a href="#0">Trust & Safely</a>
           </div>
         </div>
       </div>
       <hr />
       <div className="endFooter">
         <div className="copyright">
-          <a>&copy; 2021 Airbnb, Inc</a>
+          <a href="#0">&copy; 2021 Airbnb, Inc</a>
           <span aria-hidden="true">·</span>
-          <a>Privacy</a>
+          <a href="#0">Privacy</a>
           <span aria-hidden="true">·</span>
-          <a>Terms</a>
+          <a href="#0">Terms</a>
           <span aria-hidden="true">·</span>
-          <a>Sitemap</a>
+          <a href="#0">Sitemap</a>
           <span aria-hidden="true">·</span>
-          <a>Company details</a>
+          <a href="#0">Company details</a>
         </div>
         <div className="languageAndSocial">
           <div className="language">
-            <a>
+            <a href="#0">
               <span>
               <svg
       viewBox="0 0 16 16"
@@ -86,7 +87,7 @@ export default function Footer(props) {
     </svg>
     </span>English(IN)
     </a>
-            <a>
+            <a href="#0">
             <span>
             ₹
             </span>
@@ -94,7 +95,7 @@ export default function Footer(props) {
             </a>
           </div>
           <div className="socialMedia">
-            <a>
+            <a href="#0">
               <svg
                 viewBox="0 0 32 32"
                 aria-hidden="false"
@@ -112,7 +113,7 @@ export default function Footer(props) {
                   fillRule="evenodd"
                 />
               </svg></a>
-            <a>
+            <a href="#0">
               <svg
                 viewBox="0 0 32 32"
                 aria-hidden="false"
@@ -130,7 +131,7 @@ export default function Footer(props) {
                   fillRule="evenodd"
                 />
               </svg></a>
-            <a>
+            <a href="#0">
               <svg
                 viewBox="0 0 24 24"
                 aria-hidden="false"
