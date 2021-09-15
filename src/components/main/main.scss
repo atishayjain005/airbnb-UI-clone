@@ -1,0 +1,43 @@
+.section1 {
+    padding: 20px 80px;
+    h1 {
+        font-weight: 800;
+        font-size: 32px;
+        padding-bottom: 18px;
+        padding-top: 10px;
+    }
+    .nearbyDestinations {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        grid-gap: 20px;
+
+        .location {
+            .picture {
+                picture {
+                    margin-right: 15px;
+                    img {
+                        width: 64px;
+                        height: 64px;
+                        border-radius: 10px;
+                    }
+                }
+            }
+
+            a {
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                text-decoration: none;
+                flex-basis: 100%;
+                color: black;
+
+                .details {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: left;
+                    align-items: left;
+                }
+            }
+        }
+    }
+}
