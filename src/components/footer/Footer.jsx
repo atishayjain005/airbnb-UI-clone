@@ -8,68 +8,68 @@ export default function Footer(props) {
         <div className="links">
           <h5>About</h5>
           <div className="link">
-            <a href="">How Airbnb works</a>
-            <a href="">Newsroom</a>
-            <a href="">Airbnb 2021</a>
-            <a href="">Investors</a>
-            <a href="">Airbnb Plus</a>
-            <a href="">Airbnb Luxe</a>
-            <a href="">Hotel Tonight</a>
-            <a href="">Airbnb for Work</a>
-            <a href="">Made possible by Hosts</a>
-            <a href="">Careers</a>
-            <a href="">Founder's Letter</a>
+            <a>How Airbnb works</a>
+            <a>Newsroom</a>
+            <a>Airbnb 2021</a>
+            <a>Investors</a>
+            <a>Airbnb Plus</a>
+            <a>Airbnb Luxe</a>
+            <a>Hotel Tonight</a>
+            <a>Airbnb for Work</a>
+            <a>Made possible by Hosts</a>
+            <a>Careers</a>
+            <a>Founder's Letter</a>
           </div>
         </div>
         <div className="links">
           <h5>Community</h5>
           <div className="link">
-            <a href="">Diversity & Blogging</a>
-            <a href="">Accessibility</a>
-            <a href="">Airbnb Associates</a>
-            <a href="">Frontline Stays</a>
-            <a href="">Guest Referrals</a>
-            <a href="">Airbnb.org</a>
+            <a>Diversity & Blogging</a>
+            <a>Accessibility</a>
+            <a>Airbnb Associates</a>
+            <a>Frontline Stays</a>
+            <a>Guest Referrals</a>
+            <a>Airbnb.org</a>
           </div>
         </div>
         <div className="links">
           <h5>Host</h5>
           <div className="link">
-            <a href="">Host your home</a>
-            <a href="">Host an Online Experience</a>
-            <a href="">Host an Experience</a>
-            <a href="">Responsible hosting</a>
-            <a href="">Resource Centre</a>
-            <a href="">Community Centre</a>
+            <a>Host your home</a>
+            <a>Host an Online Experience</a>
+            <a>Host an Experience</a>
+            <a>Responsible hosting</a>
+            <a>Resource Centre</a>
+            <a>Community Centre</a>
           </div>
         </div>
         <div className="links">
           <h5>Support</h5>
           <div className="link">
-            <a href="">Our COVID-19 Response</a>
-            <a href="">Help Centre</a>
-            <a href="">Cancellation options</a>
-            <a href="">Neighbourhood Support</a>
-            <a href="">Trust & Safely</a>
+            <a>Our COVID-19 Response</a>
+            <a>Help Centre</a>
+            <a>Cancellation options</a>
+            <a>Neighbourhood Support</a>
+            <a>Trust & Safely</a>
           </div>
         </div>
       </div>
       <hr />
       <div className="endFooter">
         <div className="copyright">
-          <a href="">&copy; 2021 Airbnb, Inc</a>
+          <a>&copy; 2021 Airbnb, Inc</a>
           <span aria-hidden="true">·</span>
-          <a href="">Privacy</a>
+          <a>Privacy</a>
           <span aria-hidden="true">·</span>
-          <a href="">Terms</a>
+          <a>Terms</a>
           <span aria-hidden="true">·</span>
-          <a href="">Sitemap</a>
+          <a>Sitemap</a>
           <span aria-hidden="true">·</span>
-          <a href="">Company details</a>
+          <a>Company details</a>
         </div>
         <div className="languageAndSocial">
           <div className="language">
-            <a href="">
+            <a>
               <span>
               <svg
       viewBox="0 0 16 16"
@@ -86,7 +86,7 @@ export default function Footer(props) {
     </svg>
     </span>English(IN)
     </a>
-            <a href="">
+            <a>
             <span>
             ₹
             </span>
@@ -94,7 +94,7 @@ export default function Footer(props) {
             </a>
           </div>
           <div className="socialMedia">
-            <a href="">
+            <a>
               <svg
                 viewBox="0 0 32 32"
                 aria-hidden="false"
@@ -112,7 +112,7 @@ export default function Footer(props) {
                   fillRule="evenodd"
                 />
               </svg></a>
-            <a href="">
+            <a>
               <svg
                 viewBox="0 0 32 32"
                 aria-hidden="false"
@@ -130,7 +130,7 @@ export default function Footer(props) {
                   fillRule="evenodd"
                 />
               </svg></a>
-            <a href="">
+            <a>
               <svg
                 viewBox="0 0 24 24"
                 aria-hidden="false"

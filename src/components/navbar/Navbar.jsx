@@ -40,9 +40,9 @@ export default function Navbar({ dropdownMenuOpen, setDropdownMenuOpen }, props)
                 </div>
                 <div className="center">
                     <div className="wrapper">
-                        <a href="#">Places to stay</a>
-                        <a href="#">Experiences</a>
-                        <a href="#">Online Experiences</a>
+                        <a>Places to stay</a>
+                        <a>Experiences</a>
+                        <a>Online Experiences</a>
                     </div>
                     <div className="traveldetails">
                         <div className="travelInfo">
@@ -89,8 +89,8 @@ export default function Navbar({ dropdownMenuOpen, setDropdownMenuOpen }, props)
                     </div>
                 </div>
                 <div className="right">
-                    <a href="#">Become a host</a>
-                    <a href="#">
+                    <a>Become a host</a>
+                    <a>
                         <div className="languageRegion">
                             <svg
                                 viewBox="0 0 16 16"

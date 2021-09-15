@@ -16,7 +16,7 @@ export default function Main() {
       <h1>Explore nearby</h1>
       <div className="nearbyDestinations">
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture >
                 <img src={jaipur}></img>
@@ -31,7 +31,7 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture>
                 <img src={udaipur}></img>
@@ -46,7 +46,7 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture>
                 <img src={nashik}></img>
@@ -61,7 +61,7 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture>
                 <img src={ahmedabad}></img>
@@ -76,7 +76,7 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture>
                 <img src={igatpuri}></img>
@@ -91,7 +91,7 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture>
                 <img src={indore}></img>
@@ -106,7 +106,7 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture>
                 <img src={bhopal}></img>
@@ -121,7 +121,7 @@ export default function Main() {
           </a>
         </div>
         <div className="location">
-          <a href="#">
+          <a>
             <div className="picture">
               <picture>
                 <img src={vadodra}></img>

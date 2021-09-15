@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f25d903.chunk.css",
+    "main.js": "/static/js/main.64be156a.chunk.js",
+    "main.js.map": "/static/js/main.64be156a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.697b291d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.697b291d.js.map",
+    "static/js/2.bcaac18b.chunk.js": "/static/js/2.bcaac18b.chunk.js",
+    "static/js/2.bcaac18b.chunk.js.map": "/static/js/2.bcaac18b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6f25d903.chunk.css.map": "/static/css/main.6f25d903.chunk.css.map",
+    "static/js/2.bcaac18b.chunk.js.LICENSE.txt": "/static/js/2.bcaac18b.chunk.js.LICENSE.txt",
+    "static/media/liveanywhere.scss": "/static/media/5.7c5fe161.png",
+    "static/media/ahmedabad.60075ed8.png": "/static/media/ahmedabad.60075ed8.png",
+    "static/media/navbar.scss": "/static/media/background.6660ca85.jpg",
+    "static/media/bhopal.9283dc8a.png": "/static/media/bhopal.9283dc8a.png",
+    "static/media/eight.fba0839b.jpg": "/static/media/eight.fba0839b.jpg",
+    "static/media/four.dbca3473.jpg": "/static/media/four.dbca3473.jpg",
+    "static/media/igatpuri.95592d62.png": "/static/media/igatpuri.95592d62.png",
+    "static/media/indore.86838012.png": "/static/media/indore.86838012.png",
+    "static/media/jaipur.11721c76.png": "/static/media/jaipur.11721c76.png",
+    "static/media/nashik.4528473d.png": "/static/media/nashik.4528473d.png",
+    "static/media/one.52e82bcc.jpg": "/static/media/one.52e82bcc.jpg",
+    "static/media/seven.6bc642ec.jpg": "/static/media/seven.6bc642ec.jpg",
+    "static/media/six.d1a1dc2b.jpg": "/static/media/six.d1a1dc2b.jpg",
+    "static/media/three.ffefbac4.jpg": "/static/media/three.ffefbac4.jpg",
+    "static/media/two.a435de4d.jpg": "/static/media/two.a435de4d.jpg",
+    "static/media/udaipur.7ae64170.png": "/static/media/udaipur.7ae64170.png",
+    "static/media/vadodra.a9c7c5e8.png": "/static/media/vadodra.a9c7c5e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.697b291d.js",
+    "static/js/2.bcaac18b.chunk.js",
+    "static/css/main.6f25d903.chunk.css",
+    "static/js/main.64be156a.chunk.js"
+  ]
+}
